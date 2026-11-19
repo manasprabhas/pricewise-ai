@@ -1,0 +1,38 @@
+From: Store Receipts (sample) <receipts@example.com>
+To: you@example.com
+Subject: Your Walmart receipt - SAMPLE (fictional, for testing PriceWise)
+Date: Sat, 07 Nov 2026 15:12:00 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4754243801624108889=="
+
+--===============4754243801624108889==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+This is a fictional sample receipt for testing PriceWise. Open the HTML versi=
+on.
+
+--===============4754243801624108889==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html><head><style>td{padding:4px}</style></head><body>
+<h2>Thanks for shopping (SAMPLE)</h2>
+<p>Walmart Supercenter (fictional sample)</p>
+<p>Order # 2000123-45678 &nbsp; Nov 7, 2026</p>
+<table>
+<tr><th>Item</th><th>Qty</th><th>Price</th></tr>
+<tr><td>Great Value Whole Milk 1 gal</td><td>Qty 1</td><td>$3.48</td></tr>
+<tr><td>Bananas 2.31 lb @ $0.58/lb</td><td></td><td>$1.34</td></tr>
+<tr><td>Great Value Large Eggs 12 ct</td><td>Qty 2</td><td>$7.16</td></tr>
+<tr><td>Marketside Baby Spinach 10 oz</td><td>Qty 1</td><td>$2.18</td></tr>
+<tr><td>Rollback savings</td><td></td><td>-$0.30</td></tr>
+<tr><td>Great Value Spaghetti 16 oz</td><td>Qty 3</td><td>$3.36</td></tr>
+</table>
+<p>Subtotal &nbsp; $17.22</p><p>Tax &nbsp; $0.00</p><p>Total &nbsp; $17.22</p>
+<p>Paid with VISA ending 0000</p><p>Unsubscribe | Privacy</p>
+</body></html>
+
+--===============4754243801624108889==--

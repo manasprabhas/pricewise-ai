@@ -1,0 +1,13 @@
+# Tested versions (Python 3.12 or 3.13)
+streamlit==1.67.0
+pandas==3.0.5
+numpy==2.5.3
+plotly==7.1.0
+rapidfuzz==3.14.6
+opencv-python-headless==5.0.0.93
+pytesseract==0.3.13
+pillow==12.3.0
+requests==2.34.2
+pypdf==6.17.0
+keyring==25.7.0
+pytest==9.1.1

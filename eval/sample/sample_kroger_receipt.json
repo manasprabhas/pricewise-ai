@@ -1,0 +1,33 @@
+{
+ "store": "Kroger",
+ "date": "2026-11-07",
+ "subtotal": 9.91,
+ "total": 9.91,
+ "lines": [
+  {
+   "text": "KRO WHL MILK GAL",
+   "line_total": 3.84,
+   "qty": 1,
+   "discount": 0
+  },
+  {
+   "text": "BANANA YELLOW",
+   "line_total": 1.23,
+   "qty": 1.81,
+   "discount": 0
+  },
+  {
+   "text": "KRO LG EGG 12",
+   "line_total": 3.89,
+   "qty": 1,
+   "discount": 0.5
+  },
+  {
+   "text": "KRO SPAGHETTI 16OZ",
+   "line_total": 1.45,
+   "qty": 1,
+   "discount": 0,
+   "size": "16 oz"
+  }
+ ]
+}

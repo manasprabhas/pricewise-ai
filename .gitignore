@@ -1,0 +1,11 @@
+# your private data never goes into Git
+data/
+*.db
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+receipts/
+eval/real/*
+!eval/real/.gitkeep
+eval/**/results.csv
